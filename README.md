@@ -1,1 +1,1 @@
-# DRF-PERMISSIONS
+# DRF_Permissions
